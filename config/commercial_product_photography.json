@@ -1,0 +1,9 @@
+{
+  "skill_id": "commercial_product_photography",
+  "version": "1.0",
+  "defaults": {
+    "lighting.direction": "side",
+    "lighting.softness": "soft",
+    "composition.placement": "centered product"
+  }
+}
